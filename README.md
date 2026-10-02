@@ -1,4 +1,4 @@
-CarZaar — Car Bidding Marketplace
+CarZaar-Car Bidding Marketplace
 
 Flutter | Dart | Supabase
 
