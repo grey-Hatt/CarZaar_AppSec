@@ -5,7 +5,7 @@ Flutter | Dart | Supabase
 **CarZaar** ("Where Car Meets Best Prices") is a mobile marketplace where sellers list their cars and buyers compete with bids. It was built as the final project of my **Mobile Application Development** course using **Flutter** and **Supabase** and I later performed a **security review** of both apps — the full report is included in this repository.
 
 | App | For | What it does |
-|-----|--------|-----|--------------|
+|-----|-----|--------------|
 | **CarZaar**  | Buyers and Sellers Mode | Browse cars, place / edit / withdraw bids, list cars, accept offers, buy "connects", report problems |
 | **CarZaar Admin**  | Admin Mode | Dashboard, user management, listing and bid monitoring, complaint handling, analytics |
 
