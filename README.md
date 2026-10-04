@@ -1,16 +1,16 @@
-CarZaar — Car Bidding Marketplace
+## CarZaar — Car Bidding Marketplace
 
 Flutter | Dart | Supabase
 
 **CarZaar** ("Where Car Meets Best Prices") is a mobile marketplace where sellers list their cars and buyers compete with bids. It was built as the final project of my **Mobile Application Development** course using **Flutter** and **Supabase** and I later performed a **security review** of both apps — the full report is included in this repository.
 
-| App | Folder | For | What it does |
+| App | For | What it does |
 |-----|--------|-----|--------------|
-| **CarZaar** | [`user_app/`](user_app) | Buyers and Sellers Mode | Browse cars, place / edit / withdraw bids, list cars, accept offers, buy "connects", report problems |
-| **CarZaar Admin** | [`admin_app/`](admin_app) | Admin Mode | Dashboard, user management, listing and bid monitoring, complaint handling, analytics |
+| **CarZaar**  | Buyers and Sellers Mode | Browse cars, place / edit / withdraw bids, list cars, accept offers, buy "connects", report problems |
+| **CarZaar Admin**  | Admin Mode | Dashboard, user management, listing and bid monitoring, complaint handling, analytics |
 
 
-Media
+## Media
 
 ### User Module
 <table>
@@ -30,7 +30,7 @@ Media
 
 ---
 
-Features
+## Features
 
 **User app**
 - Sign up, log in, reset password, edit profile including profile photo
@@ -50,13 +50,12 @@ Features
 - User and listing analytics
 
 
-Security Testing
+## Security Testing
 
 After finishing the app I reviewed both modules from an attacker's point of view. The assessment is mapped to the **OWASP Top 10**, **OWASP API Security Top 10** and **OWASP Mobile Top 10**.
 
 
-Author
+## Author
 
-Built by me as a part of final project of my **Mobile Application Development** course and I later performed a **security review** of both apps
-
+Built by me as a part of final project of my **Mobile Application Development** course and I later performed a **security review** of both apps.
 Feedback and suggestions are welcome, feel free to open an issue.
