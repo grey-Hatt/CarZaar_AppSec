@@ -5,8 +5,8 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 final supabase = Supabase.instance.client;
 
-const adminEmail = 'admin@carzaar.com';
-const adminPassword = 'admin123';
+const adminEmail = '';
+const adminPassword = '';
 
 String shortId(Object? v) {
   final s = v?.toString() ?? '';
