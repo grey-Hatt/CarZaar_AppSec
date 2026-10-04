@@ -10,7 +10,6 @@ class ForgetPassScreen extends StatelessWidget {
       body: const Center(
         child: Padding(
           padding: EdgeInsets.all(24),
-          child: Text('For this university demo, admin uses fixed credentials:\nadmin@carzaar.com / admin123', textAlign: TextAlign.center),
         ),
       ),
     );
