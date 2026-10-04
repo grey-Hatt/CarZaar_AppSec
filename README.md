@@ -26,16 +26,16 @@ both apps — the full report is included in this repository.
 ### User app (buyer &amp; seller)
 <table>
   <tr>
-    <td align="center" width="50%"><img src="docs/screenshots/user_login.png" alt="CarZaar login screen"><br><sub><b>Login</b></sub></td>
-    <td align="center" width="50%"><img src="docs/screenshots/user_home.png" alt="CarZaar home with Buyer and Seller mode"><br><sub><b>Home – switch between Buyer and Seller mode</b></sub></td>
+    <td align="center" width="50%"><img src="docs/user_login.png" alt="CarZaar login screen"><br><sub><b>Login</b></sub></td>
+    <td align="center" width="50%"><img src="docs/user_home.png" alt="CarZaar home with Buyer and Seller mode"><br><sub><b>Home – switch between Buyer and Seller mode</b></sub></td>
   </tr>
 </table>
 
 ### Admin app
 <table>
   <tr>
-    <td align="center" width="50%"><img src="docs/screenshots/admin_dashboard.png" alt="Admin dashboard with live counters"><br><sub><b>Dashboard – live counters &amp; modules</b></sub></td>
-    <td align="center" width="50%"><img src="docs/screenshots/admin_car_listing.png" alt="Car listing monitoring with status filters"><br><sub><b>Car listing monitoring – search, filter, block</b></sub></td>
+    <td align="center" width="50%"><img src="docs/admin_dashboard.png" alt="Admin dashboard with live counters"><br><sub><b>Dashboard – live counters &amp; modules</b></sub></td>
+    <td align="center" width="50%"><img src="docs/admin_car_listing.png" alt="Car listing monitoring with status filters"><br><sub><b>Car listing monitoring – search, filter, block</b></sub></td>
   </tr>
 </table>
 
