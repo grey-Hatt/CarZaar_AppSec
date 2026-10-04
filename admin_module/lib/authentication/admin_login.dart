@@ -10,8 +10,8 @@ class AdminLoginScreen extends StatefulWidget {
 }
 
 class _AdminLoginScreenState extends State<AdminLoginScreen> {
-  final email = TextEditingController(text: adminEmail);
-  final password = TextEditingController(text: adminPassword);
+  final email = TextEditingController();
+  final password = TextEditingController();
   bool loading = false, hide = true;
 
   @override
@@ -84,9 +84,7 @@ class _AdminLoginScreenState extends State<AdminLoginScreen> {
                         style: ElevatedButton.styleFrom(padding: const EdgeInsets.all(15)),
                       ),
                     ),
-                    const SizedBox(height: 12),
-                    const Text('Default: admin@carzaar.com / admin123', style: TextStyle(color: Colors.white38)),
-                  ],
+                    const SizedBox(height: 12),                  ],
                 ),
               ),
             ),
